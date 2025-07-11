@@ -1,5 +1,8 @@
 import string
-
+'''
+Helps with sucessfully resolving the effect of the Yu-Gi-Oh card: Simultaneous Equation Cannons
+https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=19921
+'''
 def main():
     
     XYZ = [3, 4, 5]
